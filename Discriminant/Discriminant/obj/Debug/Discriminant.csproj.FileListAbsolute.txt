@@ -1,0 +1,9 @@
+c:\users\nataaaaaashaaaaa\documents\visual studio 2015\Projects\Discriminant\Discriminant\bin\Debug\Discriminant.exe.config
+c:\users\nataaaaaashaaaaa\documents\visual studio 2015\Projects\Discriminant\Discriminant\bin\Debug\Discriminant.exe
+c:\users\nataaaaaashaaaaa\documents\visual studio 2015\Projects\Discriminant\Discriminant\bin\Debug\Discriminant.pdb
+c:\users\nataaaaaashaaaaa\documents\visual studio 2015\Projects\Discriminant\Discriminant\obj\Debug\Discriminant.csprojResolveAssemblyReference.cache
+c:\users\nataaaaaashaaaaa\documents\visual studio 2015\Projects\Discriminant\Discriminant\obj\Debug\Discriminant.Form1.resources
+c:\users\nataaaaaashaaaaa\documents\visual studio 2015\Projects\Discriminant\Discriminant\obj\Debug\Discriminant.Properties.Resources.resources
+c:\users\nataaaaaashaaaaa\documents\visual studio 2015\Projects\Discriminant\Discriminant\obj\Debug\Discriminant.csproj.GenerateResource.Cache
+c:\users\nataaaaaashaaaaa\documents\visual studio 2015\Projects\Discriminant\Discriminant\obj\Debug\Discriminant.exe
+c:\users\nataaaaaashaaaaa\documents\visual studio 2015\Projects\Discriminant\Discriminant\obj\Debug\Discriminant.pdb
